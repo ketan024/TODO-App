@@ -1,6 +1,11 @@
 // todo app feature - two
 // todo appgit 
 
+// todo app feature - one
+// todo app
+
+>>>>>>> feature
+
 let btn=document.querySelector("button");
 let ul=document.querySelector("ul");
 let inp=document.querySelector("input");
